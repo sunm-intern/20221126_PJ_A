@@ -13,7 +13,7 @@ body {
   line-height: 2;
   font-family: Raleway, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
   /* TODO */
-  background-color: #dc143c;
+  background-color: #FFF9EE;
 }
 
 *,
@@ -29,6 +29,7 @@ body {
 .heading {
   margin: 80px 0 10px;
   font-size: 4.0rem;
+  color: #007199;
 }
 
 
@@ -59,6 +60,7 @@ body {
   font-size: 1.3rem;
   letter-spacing: 1px;
   transition: 0.15s;
+  text-decoration: none;
 }
 
 .nav-item:hover {
